@@ -1,0 +1,22 @@
+{
+  "name": "@yogendra0sharma/hello_npm_package",
+  "version": "1.0.1",
+  "description": "Hello world npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogendra0Sharma/hello_npm_package.git"
+  },
+  "author": "Yogendra Sharma <eh.yogendra@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogendra0Sharma/hello_npm_package/issues"
+  },
+  "homepage": "https://github.com/Yogendra0Sharma/hello_npm_package#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
