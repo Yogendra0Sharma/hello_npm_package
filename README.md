@@ -31,11 +31,12 @@ RePublish new version to NPM Registry
 
 You have to change version number as verion symentic manner
 
-	Old version :- 1.0.0
-	update to new version :- 1.0.1
+Old version :- 1.0.0
+update to new version :- 1.0.1
 	
 	npm version 1.0.1
-after updating version, publish the package.
+
+After updating version, publish the package.
 
 Beta and Release versions
 ---
